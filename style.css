@@ -1,0 +1,304 @@
+body{
+    height: 100%;
+}
+
+.o{
+    position: absolute;
+    border: 1px solid rgb(247, 246, 246);
+    border-radius: 50px;
+    width: 25px;
+    height: 25px;
+    float: left;
+    left: 3px;
+    top: 25px;
+}
+
+.Doug{
+    float: right;
+    margin-top: 8px;
+    margin-right: 9px;
+
+}
+
+.Header{
+    background-color: rgb(255, 255, 255);
+    box-shadow:0  15px 10px rgba(110, 110, 110, 0.329);
+    height: 70px;
+    
+}
+
+.bar{
+    background-color: #8791b0fb;
+    color: rgb(240, 248, 255);
+    width: 220px;
+    height: 869px;
+    float: left;
+}
+
+.Search{
+    float: left;
+    width: 350px;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+    padding-left: 15px;
+    color: rgba(0, 0, 0, 0.493);
+    background-color: rgba(111, 110, 110, 0.212);
+
+}
+
+.box1 h1{
+    text-align: center;
+}
+
+.box1 p{
+    text-align: left;
+    margin-top: 25px;   
+    align-items: center;
+}
+
+.box1 hr{
+    position: relative;
+    width: 200px;
+    border: 0.5px solid rgba(38, 35, 35, 0.14);
+
+}
+
+.Colo{
+    float: right;
+    border-radius: 35px;
+    width: 30px;
+    height: 30px;
+    border: 4px solid rgb(103, 98, 98);
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.Dashboard{
+    position: relative;
+    left: 25px;
+}
+
+.Cer{
+    position: relative;
+    border-radius: 50px;
+    border: 1px solid rgb(255, 255, 255);
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+    left: 3px;
+}
+
+
+.con{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    width: 1860px;
+}
+
+
+.Co{
+    float: left;
+    height: 50px;
+    width: 35px;
+    border-radius: 0 10px 10px 0;
+    background-color: #7293f8;
+    margin-top: 15px;
+}
+
+.Head{
+    color: rgb(9, 4, 30);
+    margin-left: 17px;
+    font-size: 15px;
+}
+
+.cen{
+    float: right;
+    border: 1px solid rgb(103, 98, 98);
+    margin-top: 9px;
+    margin-right: 25px;
+    height: 55px;
+}
+
+.O1{
+    float: right;
+    border-radius: 35px;
+    border: 4px solid rgb(103, 98, 98);
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+
+
+.O2{
+    float: right;
+    border-radius: 35px;
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 5px;
+    border: 4px solid rgb(103, 98, 98);
+}
+.rep{
+    position: relative;
+    background-color: #4965b8;
+    width: 150px;
+    height: 35px;
+    float: right;
+    margin-right: 80px;
+    border-radius: 7px;
+    top: -3px;
+}
+
+.rep p{
+    color: #ffffff;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.Mon{
+    width: 375px;
+    height: 100px;
+    margin: auto;
+    float: left;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-left: 4px solid rgb(96, 96, 221); 
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237);
+    
+}
+.Mon p {
+    margin-left: 1.5rem;
+    color:rgb(0, 0, 255); 
+}
+.Mon h2{
+    margin-left: 1.5rem;
+}
+
+.Earn p {
+    margin-left: 1.5rem;
+    color:rgb(9, 110, 25); 
+}
+.Earn h2{
+    margin-left: 1.5rem;
+}
+
+.Tasks{
+    width: 375px;
+    height: 100px;
+    float: left;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-left: 4px solid rgba(33, 225, 255, 0.813); 
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237);
+    
+}
+.Tasks p {
+    margin-left: 1.5rem;
+    color:rgba(33, 225, 255, 0.813);
+}
+.Tasks h2{
+    margin-left: 1.5rem;
+}
+    
+.Tas{
+    position: relative;
+    border-radius: 5px;
+    margin-right: 55px;
+    float: right;
+    background-color: rgba(174, 169, 169, 0.361);
+    width: 250px;
+}
+
+.Tass{
+    width: 50%;
+    height: 8px;
+    border-radius: 10px 0 0 10px;
+    background-color: #52d7ec;
+}
+
+.Earn{
+    width: 375px;
+    height: 100px;
+    float: left;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-left: 4px solid rgb(9, 110, 25); 
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237);
+    
+}
+.Pend{
+
+    width: 375px;
+    height: 100px;
+    float: left;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-left: 4px solid rgb(217, 194, 94);
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237); 
+}
+
+.Pend p {
+    margin-left: 1.5rem;
+    color:rgb(201, 170, 31); 
+}
+.Pend h2{
+    margin-left: 1.5rem;
+}
+
+
+.Money{
+    position: relative;
+    left: 15px;
+    line-height: 4rem;
+}
+
+
+.Rev h2{
+    height: 35px;
+    margin-top: 0px;
+    color: #143ebc;
+    border-radius: 1px 1px 0 0;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: rgba(235, 235, 248, 0.798);
+
+}
+.Rev{
+    width: 555px;
+    height: 500px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237); 
+    
+}
+
+.over{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    box-shadow:2px 2px 5px 2px rgba(110, 110, 110, 0.237); 
+
+}
+
+.over h3{
+    position: relative;
+    height: 35px;
+    margin-top: 0px;
+    color: #143ebc;
+    border-radius: 1px 1px 0 0;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: rgba(235, 235, 248, 0.798);
+}
